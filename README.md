@@ -1,2 +1,1 @@
-# Erender
-Vulkan based renderer using QT
+* Vulkan-Based Renderer with QT6
